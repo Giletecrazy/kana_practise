@@ -1,0 +1,14 @@
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\bin\Debug\kanji learner.exe.config
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\bin\Debug\kanji learner.exe
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\bin\Debug\kanji learner.pdb
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji learner.csproj.AssemblyReference.cache
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji_learner.Form1.resources
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji_learner.Properties.Resources.resources
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji learner.csproj.GenerateResource.cache
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji learner.csproj.CoreCompileInputs.cache
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji learner.exe
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji learner.pdb
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji_learner.romanji_test.resources
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji_learner.editorBD.resources
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji_learner.Resultado.resources
+C:\Users\Afonso cunha\Desktop\kanji learner\kanji learner\obj\Debug\kanji_learner.SQLInstall.resources

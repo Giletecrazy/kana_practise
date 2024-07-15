@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\editorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\editorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|kanji learner||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|c:\\users\\afonso cunha\\desktop\\kanji learner\\kanji learner\\bdjpwritingsystemdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\bdjpwritingsystemdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\sqlinstall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\sqlinstall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\sqlinstall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\sqlinstall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\passagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\passagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\romanji_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\romanji_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\romanji_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\romanji_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\editorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\editorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|solutionrelative:kanji learner\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096E50A-12D3-45F7-8645-05DB8DCBC455}|kanji learner\\kanji learner.csproj|c:\\users\\afonso cunha\\desktop\\kanji learner\\kanji learner\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bdJPWRITINGSYSTEMDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\bdJPWRITINGSYSTEMDataSet.xsd",
+              "RelativeDocumentMoniker": "kanji learner\\bdJPWRITINGSYSTEMDataSet.xsd",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\bdJPWRITINGSYSTEMDataSet.xsd",
+              "RelativeToolTip": "kanji learner\\bdJPWRITINGSYSTEMDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-07-15T13:15:16.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kanji learner",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\kanji learner.csproj",
+              "RelativeDocumentMoniker": "kanji learner\\kanji learner.csproj",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\kanji learner.csproj",
+              "RelativeToolTip": "kanji learner\\kanji learner.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-15T12:14:51.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "editorBD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\editorBD.cs",
+              "RelativeDocumentMoniker": "kanji learner\\editorBD.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\editorBD.cs [Design]",
+              "RelativeToolTip": "kanji learner\\editorBD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-15T16:45:32.673Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLInstall.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\SQLInstall.cs",
+              "RelativeDocumentMoniker": "kanji learner\\SQLInstall.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\SQLInstall.cs [Design]",
+              "RelativeToolTip": "kanji learner\\SQLInstall.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:42:08.472Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLInstall.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\SQLInstall.cs",
+              "RelativeDocumentMoniker": "kanji learner\\SQLInstall.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\SQLInstall.cs",
+              "RelativeToolTip": "kanji learner\\SQLInstall.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:45:19.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "editorBD.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\editorBD.cs",
+              "RelativeDocumentMoniker": "kanji learner\\editorBD.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\editorBD.cs",
+              "RelativeToolTip": "kanji learner\\editorBD.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwO8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-15T16:45:34.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "romanji_test.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\romanji_test.cs",
+              "RelativeDocumentMoniker": "kanji learner\\romanji_test.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\romanji_test.cs",
+              "RelativeToolTip": "kanji learner\\romanji_test.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowJQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-15T20:52:47.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Resultado.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\Resultado.cs",
+              "RelativeDocumentMoniker": "kanji learner\\Resultado.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\Resultado.cs",
+              "RelativeToolTip": "kanji learner\\Resultado.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-15T18:54:18.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resultado.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\Resultado.cs",
+              "RelativeDocumentMoniker": "kanji learner\\Resultado.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\Resultado.cs [Design]",
+              "RelativeToolTip": "kanji learner\\Resultado.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-15T18:53:23.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "romanji_test.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\romanji_test.cs",
+              "RelativeDocumentMoniker": "kanji learner\\romanji_test.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\romanji_test.cs [Design]",
+              "RelativeToolTip": "kanji learner\\romanji_test.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-13T15:09:33.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\Form1.cs",
+              "RelativeDocumentMoniker": "kanji learner\\Form1.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\Form1.cs [Design]",
+              "RelativeToolTip": "kanji learner\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-13T15:03:24.558Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "passagem.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\passagem.cs",
+              "RelativeDocumentMoniker": "kanji learner\\passagem.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\passagem.cs",
+              "RelativeToolTip": "kanji learner\\passagem.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-15T16:56:07.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\Form1.cs",
+              "RelativeDocumentMoniker": "kanji learner\\Form1.cs",
+              "ToolTip": "C:\\Users\\Afonso cunha\\Desktop\\kanji learner\\kanji learner\\Form1.cs",
+              "RelativeToolTip": "kanji learner\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA4wBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-13T15:02:29.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
